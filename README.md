@@ -19,12 +19,12 @@ Given data has been analysed the following questions have been answered in the S
 8. Which sport is having most female Gold Medalists? (Top 5)
 
 ## Images of this project:
-<code><img height="60" src="https://user-images.githubusercontent.com/89255942/133108392-07856ed9-3551-4e80-af10-35b880cb8d13.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/89255942/133108393-3d0d0cc6-c3ab-4374-ba94-92de63e1a512.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/89255942/133108395-5bca50bf-5b49-4d2f-8545-3324caffd23e.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/89255942/133108398-0cf0853a-2a81-41f0-9f5e-056edf374cb3.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/89255942/133108382-0b8bfc5b-846f-470d-9a0b-316558f8d304.png"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/89255942/133108390-0592382a-f1d1-4dd9-8711-45cac82318ad.png"></code>
+<code><img height="90" src="https://user-images.githubusercontent.com/89255942/133108392-07856ed9-3551-4e80-af10-35b880cb8d13.png"></code>
+<code><img height="90" src="https://user-images.githubusercontent.com/89255942/133108393-3d0d0cc6-c3ab-4374-ba94-92de63e1a512.png"></code>
+<code><img height="90" src="https://user-images.githubusercontent.com/89255942/133108395-5bca50bf-5b49-4d2f-8545-3324caffd23e.png"></code>
+<code><img height="90" src="https://user-images.githubusercontent.com/89255942/133108398-0cf0853a-2a81-41f0-9f5e-056edf374cb3.png"></code>
+<code><img height="90" src="https://user-images.githubusercontent.com/89255942/133108382-0b8bfc5b-846f-470d-9a0b-316558f8d304.png"></code>
+<code><img height="90" src="https://user-images.githubusercontent.com/89255942/133108390-0592382a-f1d1-4dd9-8711-45cac82318ad.png"></code>
 
 
 ## For any queries, you can contact me:
